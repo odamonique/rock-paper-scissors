@@ -22,3 +22,17 @@ function getComputerChoice() {
     const computersChoice = getComputerChoice();
     //Check if the returned value works as expected 
     console.log(computersChoice);
+
+//Create function to get the user's choice 
+function getHumanChoice() {
+    
+    //Get user's input 
+    let choice = prompt("Choose rock, paper or scissors");
+    //return user's choice 
+    return choice;
+}
+
+//Create variable to hold user's choice 
+const humanChoice = getHumanChoice();
+//Check if returned value works as expected 
+console.log(humanChoice);
