@@ -1,3 +1,7 @@
+//Declare the players score variables to keep track
+let humanScore = 0;
+let computerScore = 0;
+
 //Create function to get the computer's choice
 function getComputerChoice() {
 
