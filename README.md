@@ -11,4 +11,4 @@ Step 3: Declare the players score variables
 
 Step 4: Write the logic to play a single round 
 
-Step 5: Write the logic to play the entire game (5rounds)
+Step 5: Write the logic to play the entire game (5 rounds)
